@@ -1,0 +1,8 @@
+# WorkBuddy 工作区数据（含本地记忆，不提交）
+.workbuddy/
+
+# 临时/备份文件
+*.orig
+*.bak
+*.tmp
+*.log
